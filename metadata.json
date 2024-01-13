@@ -2,6 +2,6 @@
   "name": "HyperDA",
   "website": "https://hyperda.xyz",
   "description": "An AVS Built on eigenlayer. Offering fast, cheap, highly scalable data availability to rollups. Secured by ETH restaking.",
-  "logo": "https://i.imgur.com/RdECgHm.png",
+  "logo": "https://raw.githubusercontent.com/0xmoei/HyperDA/main/hyperda.png",
   "twitter": "https://x.com/HyperDA_xyz"
 }
